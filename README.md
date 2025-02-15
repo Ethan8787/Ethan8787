@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Ethan(27ms__)
 
 ### 🛠 About Me
-- 🎮 No Skill Minecraft Plugin Developer (Spigot, Paper, NMS)
+- 🎮 No Skill Minecraft Plugin Developer
 ### 📫 Contact Me
-- ✉ **Email:** your-email@example.com
-- 💬 **Discord:** 
+- ✉ **Email:** ssmoon0912@gmail.com
+- 💬 **Discord:** https://discord.gg/4BVBu3ftMe
