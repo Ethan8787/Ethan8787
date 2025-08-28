@@ -4,4 +4,4 @@
 - 🎮 Learning Minecraft Plugin Development
 ### 📫 Contact Me
 - ✉ **Email:** ssmoon0912@gmail.com
-- 💬 **Discord:** [Untitled Network](https://discord.gg/AyucpYarpa)
+- 💬 **Discord:** [Null Network](https://discord.gg/AyucpYarpa)
