@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Ethan(27ms__)
+# 👋 Hello! I'm Ethan (27ms__)
 
 ### 🛠 About Me
 - 🎮 Learning Minecraft Plugin Development
