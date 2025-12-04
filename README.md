@@ -1,6 +1,12 @@
-# About Me
-- I'm Ethan, a 14y dev.
-## Minecraft Server: 
-- `null.fury.tw`
-# GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan8787&text_color=AA000&bg_color=000000&border_color=AA0000)](https://github.com/Ethan8787)
+# Ethan
+- `Website:` https://eth4n.pages.dev/
+- `E-mail:` ssmoon0912@gmail.com
+## Minecraft Server
+- Null Network `null.fury.tw` - Owner
+- Circle Network `tw4.shdctw.com:25476`- Admin
+- NGNL 伺服器 `tw-6.cs-nodes.net:30796` - Dev
+## Skills
+- `Java`
+- `Python`
+- `C/C++`
+- `React`
