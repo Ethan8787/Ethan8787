@@ -1,5 +1,5 @@
 # Ethan
-- `Website:` https://eth4n.pages.dev/
+> This is Ethan himself
 - `E-mail:` ssmoon0912@gmail.com
 ## Minecraft Server
 ### Null Network - Owner
